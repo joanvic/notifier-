@@ -1,40 +1,61 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace ChatApp
+namespace PupHubMessagingSystem
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string sender, receiver, message;
+            Dictionary<string, List<string>> conversations = new Dictionary<string, List<string>>();
+
             bool isContinuing = true;
 
             while (isContinuing)
             {
-                Console.Write("Choose if you are P1 or P2: ");
-                sender = Console.ReadLine();
+                Console.Write("Choose if you are S1 or S2: ");
+                string sender = Console.ReadLine();
 
                 Console.Write("Send Message: ");
-                message = Console.ReadLine();
+                string message = Console.ReadLine();
 
-                Console.WriteLine("");
                 Console.WriteLine($"Message Sent\nYou sent a message on {DateTime.Now.ToString()}");
 
-                if (sender == "P1")
-                {
-                    Console.WriteLine("");
-                    Console.Write("Enter Message P2: ");
-                    receiver = "P2";
-                }
+                Console.Write("Message Sent\n");
+
+                string receiver;
+
+                if (sender == "S1")
+                    {
+                        receiver = "S2";
+                    }
                 else
+                    {
+                        receiver = "S1";
+                    }
+
+                if (!conversations.ContainsKey(sender))
+                    {
+                        conversations[sender] = new List<string>();
+                    }
+
+                conversations[sender].Add($"{sender}:  {message}");
+
+                if (!conversations.ContainsKey(receiver))
                 {
-                    Console.WriteLine("");
-                    Console.Write("Enter Message P1: ");
-                    receiver = "P1";
+                    conversations[receiver] = new List<string>();
                 }
 
-                message = Console.ReadLine();
-                Console.WriteLine($"Message Received\n{receiver}: {message}");
+                conversations[receiver].Add($"{receiver}: {message}");
+
+                Console.WriteLine("");
+                Console.WriteLine("Current Conversation");
+
+                foreach (string conversation in conversations[sender])
+                    {
+                    conversations[sender].Add($"{sender}:  {message}");
+                    if (!conversations.ContainsKey(receiver));
+                    }
 
                 Console.Write("Do you want to continue? (yes/no): ");
                 string continueResponse = Console.ReadLine();
@@ -45,7 +66,7 @@ namespace ChatApp
                 }
             }
 
-            Console.WriteLine("Thanks for using!");
+            Console.WriteLine("Thanks for using PupHub Messaging System!");
         }
     }
 }
