@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      },
+      "janbikdamn/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/janbikdamn.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/janbikdamn.dll": {}
+        }
+      },
+      "nelsontanga/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/nelsontanga.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/nelsontanga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "janbikdamn/1.0.0": {
+      "type": "project",
+      "path": "../janbikdamn/janbikdamn.csproj",
+      "msbuildProject": "../janbikdamn/janbikdamn.csproj"
+    },
+    "nelsontanga/1.0.0": {
+      "type": "project",
+      "path": "../nelsontanga/nelsontanga.csproj",
+      "msbuildProject": "../nelsontanga/nelsontanga.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ClassLibrary1 >= 1.0.0",
+      "janbikdamn >= 1.0.0",
+      "nelsontanga >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vjoan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\notifier\\fnelsonburat\\fnelsonburat.csproj",
+      "projectName": "fnelsonburat",
+      "projectPath": "G:\\notifier\\fnelsonburat\\fnelsonburat.csproj",
+      "packagesPath": "C:\\Users\\vjoan\\.nuget\\packages\\",
+      "outputPath": "G:\\notifier\\fnelsonburat\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vjoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "G:\\notifier\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "G:\\notifier\\ClassLibrary1\\ClassLibrary1.csproj"
+            },
+            "G:\\notifier\\janbikdamn\\janbikdamn.csproj": {
+              "projectPath": "G:\\notifier\\janbikdamn\\janbikdamn.csproj"
+            },
+            "G:\\notifier\\nelsontanga\\nelsontanga.csproj": {
+              "projectPath": "G:\\notifier\\nelsontanga\\nelsontanga.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

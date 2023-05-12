@@ -1,0 +1,12 @@
+G:\notifier\janbikdamn\bin\Debug\net5.0\janbikdamn.deps.json
+G:\notifier\janbikdamn\bin\Debug\net5.0\janbikdamn.dll
+G:\notifier\janbikdamn\bin\Debug\net5.0\janbikdamn.pdb
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.csproj.AssemblyReference.cache
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.GeneratedMSBuildEditorConfig.editorconfig
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.AssemblyInfoInputs.cache
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.AssemblyInfo.cs
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.csproj.CoreCompileInputs.cache
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.dll
+G:\notifier\janbikdamn\obj\Debug\net5.0\refint\janbikdamn.dll
+G:\notifier\janbikdamn\obj\Debug\net5.0\janbikdamn.pdb
+G:\notifier\janbikdamn\obj\Debug\net5.0\ref\janbikdamn.dll

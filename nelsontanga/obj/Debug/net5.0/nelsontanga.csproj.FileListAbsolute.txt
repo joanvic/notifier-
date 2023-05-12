@@ -1,0 +1,12 @@
+G:\notifier\nelsontanga\bin\Debug\net5.0\nelsontanga.deps.json
+G:\notifier\nelsontanga\bin\Debug\net5.0\nelsontanga.dll
+G:\notifier\nelsontanga\bin\Debug\net5.0\nelsontanga.pdb
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.csproj.AssemblyReference.cache
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.GeneratedMSBuildEditorConfig.editorconfig
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.AssemblyInfoInputs.cache
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.AssemblyInfo.cs
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.csproj.CoreCompileInputs.cache
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.dll
+G:\notifier\nelsontanga\obj\Debug\net5.0\refint\nelsontanga.dll
+G:\notifier\nelsontanga\obj\Debug\net5.0\nelsontanga.pdb
+G:\notifier\nelsontanga\obj\Debug\net5.0\ref\nelsontanga.dll

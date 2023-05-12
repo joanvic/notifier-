@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fnelsonburat/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0",
+          "janbikdamn": "1.0.0",
+          "nelsontanga": "1.0.0"
+        },
+        "runtime": {
+          "fnelsonburat.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
+      },
+      "janbikdamn/1.0.0": {
+        "runtime": {
+          "janbikdamn.dll": {}
+        }
+      },
+      "nelsontanga/1.0.0": {
+        "runtime": {
+          "nelsontanga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fnelsonburat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "janbikdamn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nelsontanga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+G:\notifier\nelsontite\bin\Debug\net5.0\nelsontite.exe
+G:\notifier\nelsontite\bin\Debug\net5.0\nelsontite.deps.json
+G:\notifier\nelsontite\bin\Debug\net5.0\nelsontite.runtimeconfig.json
+G:\notifier\nelsontite\bin\Debug\net5.0\nelsontite.runtimeconfig.dev.json
+G:\notifier\nelsontite\bin\Debug\net5.0\nelsontite.dll
+G:\notifier\nelsontite\bin\Debug\net5.0\nelsontite.pdb
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.csproj.AssemblyReference.cache
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.GeneratedMSBuildEditorConfig.editorconfig
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.AssemblyInfoInputs.cache
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.AssemblyInfo.cs
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.csproj.CoreCompileInputs.cache
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.dll
+G:\notifier\nelsontite\obj\Debug\net5.0\refint\nelsontite.dll
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.pdb
+G:\notifier\nelsontite\obj\Debug\net5.0\nelsontite.genruntimeconfig.cache
+G:\notifier\nelsontite\obj\Debug\net5.0\ref\nelsontite.dll
