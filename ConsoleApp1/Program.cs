@@ -16,7 +16,7 @@ namespace PupHubMessagingSystem
                 Console.Write("Choose if you are S1 or S2: ");
                 string sender = Console.ReadLine();
 
-                Console.Write("Send Message: ");
+                Console.Write("Send Message: DASDSADSADAD");
                 string message = Console.ReadLine();
 
                 Console.WriteLine($"Message Sent\nYou sent a message on {DateTime.Now.ToString()}");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\notifier\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\vjoan\\Source\\Repos\\notifier-\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "G:\\notifier\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\vjoan\\Source\\Repos\\notifier-\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\notifier\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\vjoan\\Source\\Repos\\notifier-\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "G:\\notifier\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\vjoan\\Source\\Repos\\notifier-\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\vjoan\\.nuget\\packages\\",
-        "outputPath": "G:\\notifier\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\vjoan\\Source\\Repos\\notifier-\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vjoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
